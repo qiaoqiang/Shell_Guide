@@ -11,7 +11,7 @@ tar -cvf xxx.tar xxx/
 ### zip
 
 打包文件夹
-
+zip -r mypac.zip ./* 
 zip -r xxx.zip xxx/
 
 打包文件
